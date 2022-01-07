@@ -2,6 +2,21 @@ abbr-name: IUI
 full-name: ACM International Conference on Intelligent User Interfaces
 years:
 -
+  year: 2022
+  date: "2022-03-22"
+  url : https://iui.acm.org/2022
+  info: Helsinki, Finland
+  submissions:
+  -
+    type: Paper
+    date: "2021-10-08"
+  -
+    type: Poster
+    date: "TBA"
+  -
+    type: Demo
+    date: "TBA"
+-
   year: 2020
   date: "2020-03-18"
   url : http://iui.acm.org/2020/
